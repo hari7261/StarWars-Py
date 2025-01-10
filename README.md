@@ -4,6 +4,10 @@ Welcome to **Star Wars Space Shooter**, a thrilling and action-packed space adve
 
 ---
 
+## 📸 **Screenshots**
+
+![image](https://github.com/user-attachments/assets/186000d2-5aa2-49cd-ac03-58ef799a14e7)
+
 ## 🌟 **Features**
 
 ### 🚀 **Futuristic Gameplay**
@@ -70,11 +74,6 @@ This game is inspired by classic space shooters like **Galaga** and **Asteroids*
 - **Addictive Gameplay**: Simple controls combined with challenging levels make it easy to pick up but hard to put down.
 - **Replayability**: Compete for high scores and try to complete all levels without losing.
 - **Futuristic Vibes**: The game's visuals and sound effects create an immersive space adventure.
-
----
-
-## 📸 **Screenshots**
-
 
 ---
 
